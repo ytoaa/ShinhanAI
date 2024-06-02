@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\wff\source\repos\ai20180773_2\main.cpp(5,1): warning C4005: 'MAX_EPOCH': 매크로 재정의
+  C:\Users\wff\source\repos\ai20180773_2\MLP.h(3,1):
+  'MAX_EPOCH'의 이전 정의를 참조하십시오.
+  
+  ai20180773_2.vcxproj -> C:\Users\wff\source\repos\ai20180773_2\x64\Debug\ai20180773_2.exe

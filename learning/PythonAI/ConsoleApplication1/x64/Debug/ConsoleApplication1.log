@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(ConsoleApplication1.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Ai.cpp
+C:\Users\wff\source\repos\ConsoleApplication1\ConsoleApplication1\Ai.cpp(12,1): warning C4005: 'MAX_EPOCH': 매크로 재정의
+  C:\Users\wff\source\repos\ConsoleApplication1\ConsoleApplication1\MLP.h(3,1):
+  'MAX_EPOCH'의 이전 정의를 참조하십시오.
+  
+C:\Users\wff\source\repos\ConsoleApplication1\ConsoleApplication1\Ai.cpp(82,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wff\source\repos\ConsoleApplication1\ConsoleApplication1\Ai.cpp(89,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wff\source\repos\ConsoleApplication1\ConsoleApplication1\Ai.cpp(91,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wff\source\repos\ConsoleApplication1\ConsoleApplication1\Ai.cpp(78,13): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+C:\Users\wff\source\repos\ConsoleApplication1\ConsoleApplication1\Ai.cpp(136,66): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wff\source\repos\ConsoleApplication1\ConsoleApplication1\Ai.cpp(138,64): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wff\source\repos\ConsoleApplication1\ConsoleApplication1\Ai.cpp(132,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wff\source\repos\ConsoleApplication1\ConsoleApplication1\Ai.cpp(164,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ConsoleApplication1.vcxproj -> C:\Users\wff\source\repos\ConsoleApplication1\x64\Debug\aiworkmenu.exe

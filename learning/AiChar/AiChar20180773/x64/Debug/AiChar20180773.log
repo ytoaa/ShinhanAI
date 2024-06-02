@@ -1,0 +1,8 @@
+﻿  AiChar20180773.cpp
+C:\Users\wff\source\repos\AiChar20180773\AiChar20180773\AiChar20180773.cpp(14,1): warning C4005: 'MAX_EPOCH': 매크로 재정의
+  C:\Users\wff\source\repos\AiChar20180773\AiChar20180773\MLP.h(3,1):
+  'MAX_EPOCH'의 이전 정의를 참조하십시오.
+  
+C:\Users\wff\source\repos\AiChar20180773\AiChar20180773\AiChar20180773.cpp(35,38): warning C4129: 'W': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\wff\source\repos\AiChar20180773\AiChar20180773\AiChar20180773.cpp(114,34): warning C4129: 'W': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  AiChar20180773.vcxproj -> C:\Users\wff\source\repos\AiChar20180773\x64\Debug\Aitraining.exe

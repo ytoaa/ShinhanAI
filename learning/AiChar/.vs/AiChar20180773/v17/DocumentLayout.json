@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wff\\source\\repos\\AiChar20180773\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4E0305-19BD-47F5-B702-3E76543E64C3}|AiChar20180773\\AiChar20180773.vcxproj|C:\\Users\\wff\\source\\repos\\AiChar20180773\\AiChar20180773\\AiChar20180773.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E4E0305-19BD-47F5-B702-3E76543E64C3}|AiChar20180773\\AiChar20180773.vcxproj|solutionrelative:AiChar20180773\\AiChar20180773.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4E0305-19BD-47F5-B702-3E76543E64C3}|AiChar20180773\\AiChar20180773.vcxproj|C:\\Users\\wff\\source\\repos\\AiChar20180773\\AiChar20180773\\MLP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E4E0305-19BD-47F5-B702-3E76543E64C3}|AiChar20180773\\AiChar20180773.vcxproj|solutionrelative:AiChar20180773\\MLP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD9F119-ABD0-4EE1-B786-34A63317430D}|Chartest\\Chartest.vcxproj|C:\\Users\\wff\\source\\repos\\AiChar20180773\\Chartest\\Chartest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFD9F119-ABD0-4EE1-B786-34A63317430D}|Chartest\\Chartest.vcxproj|solutionrelative:Chartest\\Chartest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD9F119-ABD0-4EE1-B786-34A63317430D}|Chartest\\Chartest.vcxproj|C:\\Users\\wff\\source\\repos\\AiChar20180773\\Chartest\\MLP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFD9F119-ABD0-4EE1-B786-34A63317430D}|Chartest\\Chartest.vcxproj|solutionrelative:Chartest\\MLP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MLP.cpp",
+              "DocumentMoniker": "C:\\Users\\wff\\source\\repos\\AiChar20180773\\Chartest\\MLP.cpp",
+              "RelativeDocumentMoniker": "Chartest\\MLP.cpp",
+              "ToolTip": "C:\\Users\\wff\\source\\repos\\AiChar20180773\\Chartest\\MLP.cpp",
+              "RelativeToolTip": "Chartest\\MLP.cpp",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAvwPEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T02:56:33.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MLP.cpp",
+              "DocumentMoniker": "C:\\Users\\wff\\source\\repos\\AiChar20180773\\AiChar20180773\\MLP.cpp",
+              "RelativeDocumentMoniker": "AiChar20180773\\MLP.cpp",
+              "ToolTip": "C:\\Users\\wff\\source\\repos\\AiChar20180773\\AiChar20180773\\MLP.cpp",
+              "RelativeToolTip": "AiChar20180773\\MLP.cpp",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAvwPEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T02:55:59.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AiChar20180773.cpp",
+              "DocumentMoniker": "C:\\Users\\wff\\source\\repos\\AiChar20180773\\AiChar20180773\\AiChar20180773.cpp",
+              "RelativeDocumentMoniker": "AiChar20180773\\AiChar20180773.cpp",
+              "ToolTip": "C:\\Users\\wff\\source\\repos\\AiChar20180773\\AiChar20180773\\AiChar20180773.cpp",
+              "RelativeToolTip": "AiChar20180773\\AiChar20180773.cpp",
+              "ViewState": "AQIAADUAAAAAAAAAAAAvwEEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T13:14:46.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chartest.cpp",
+              "DocumentMoniker": "C:\\Users\\wff\\source\\repos\\AiChar20180773\\Chartest\\Chartest.cpp",
+              "RelativeDocumentMoniker": "Chartest\\Chartest.cpp",
+              "ToolTip": "C:\\Users\\wff\\source\\repos\\AiChar20180773\\Chartest\\Chartest.cpp",
+              "RelativeToolTip": "Chartest\\Chartest.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T02:47:29.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
