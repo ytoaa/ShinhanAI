@@ -12,10 +12,10 @@ MODEL_SAVE_FOLDER_PATH = './model/'
 custom_objects = {'softmax_v2': softmax_v2}
 
 #model = tf.keras.models.load_model(MODEL_SAVE_FOLDER_PATH + "mnist_model.hdf5", custom_objects=custom_objects)
-model = tf.keras.models.load_model(MODEL_SAVE_FOLDER_PATH + "mnist_model.keras", custom_objects=custom_objects)
+model = tf.keras.models.load_model(MODEL_SAVE_FOLDER_PATH + "mnist_model.keras")
     
 model.summary()
-
+print("20180773 유우식")
 file="num7.jpg"		# 흰바탕-검은글씨
 image = cv2.imread(file, cv2.IMREAD_GRAYSCALE)
 image = cv2.resize(image, (28,28))

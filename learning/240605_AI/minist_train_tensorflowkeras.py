@@ -14,6 +14,7 @@ print(keras.__version__)  # 케라스 버전확인
 # C:\Users\username\.keras\datasets\mnist.nzp에 다운로드,저장
 (train_images, train_labels), (test_images, test_labels) = keras.datasets.mnist.load_data() 
 print("load complete")
+print("20180773 유우식")
 
 # 학습데이터와 테스트데이터 설정
 # 0~255 중 하나로 표현되는 입력 이미지들의 값을 1 이하가 되도록 정규화    
@@ -41,9 +42,11 @@ def create_model():
 	activation=tf.nn.relu, padding='same'))
     model.add(keras.layers.MaxPool2D(padding='same'))
     model.add(keras.layers.Flatten())
-    model.add(keras.layers.Dense(256, activation=tf.nn.relu))
+    #model.add(keras.layers.Dense(256, activation=tf.nn.relu))
+    model.add(keras.layers.Dense(256, activation='relu'))
     model.add(keras.layers.Dropout(0.4))
-    model.add(keras.layers.Dense(10, activation=tf.nn.softmax))
+    #model.add(keras.layers.Dense(10, activation=tf.nn.softmax))
+    model.add(keras.layers.Dense(10, activation='softmax'))
     return model
 
 model = create_model() # 모델 함수를 model로 변경
@@ -56,7 +59,7 @@ model.compile(loss='categorical_crossentropy',      # crossentropy loss
 
 # 학습파라미터 설정
 learning_rate = 0.001
-training_epochs = 1      #50
+training_epochs = 100      #50
 batch_size = 100
 
 MODEL_SAVE_FOLDER_PATH = './model/'
@@ -76,7 +79,7 @@ history = model.fit(train_images, train_labels,         # 입력값
 
 
 # 최종 모델 구조와 가중치 저장
-model.save(MODEL_SAVE_FOLDER_PATH+"mnist_model.hdf5")
+model.save(MODEL_SAVE_FOLDER_PATH+"mnist_model.keras")
 
   
 #test 성능평가
